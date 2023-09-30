@@ -1,0 +1,155 @@
+@font-face
+{
+    font-family: NunitoSans_10pt-Regular;
+    src: url(../font/NunitoSans_10pt-Regular.ttf);
+}
+body
+{
+    font-family: NunitoSans_10pt-Regular;
+    font-size: 17px;
+    letter-spacing: 0.4px;
+   
+}
+.topbar
+{
+    background-color: rgb(23, 93, 84);
+}
+.topbar ul li 
+{
+    display: inline;
+    padding-right: 30px;
+    font-weight: bold;
+}
+.topbar ul li a
+{
+    color: #fefcfc;
+}
+a
+{
+    text-decoration: none;
+}
+ul
+{
+    margin-bottom: 0px;
+}
+.topbar ul
+{
+    padding: 10px 0px;
+}
+.nav-link
+{
+    font-weight: 600;
+    color: #000;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+p
+{
+    text-align: justify;
+    line-height: 28px;
+}
+.homecontent h1 , .services h1
+{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.homecontent span , .services span
+{
+    color: #fe8504;
+}
+.services
+{
+    background-color: #edeef1;
+    padding: 30px 0px;
+}
+.services img
+{
+    width: 50px;
+    height: 50px;
+}
+.border-right
+{
+    border-right:2px solid rgb(243, 159, 5);
+}
+.services .d-flex
+{
+    margin-bottom: 30px;
+}
+.bg-image
+{
+    background-image: url(../images/bg.jpg);
+}
+.bg-image h2
+{
+    text-align: center;
+    padding: 30px 0px;
+}
+.color_primary
+{
+    color: #eb8f05;
+}
+.offernum
+{
+    background-color: #eb8f05;
+    padding: 5px 10px;
+    border-radius: 50%;
+    color: #fff !important;
+
+}
+.offer .col-md-6
+{
+    margin-bottom: 20px;
+    padding: 5px 30px;
+}
+input , textarea
+{
+    margin-bottom: 25px;
+    height: 45px;
+}
+.form-control
+{
+    margin-bottom: 25px;
+}
+textarea
+{
+    height: 120px;
+}
+.bookservice
+{
+    background-color: rgb(207, 236, 236);
+    padding: 40px;
+}
+.topfooter
+{
+    background-color: rgb(23, 93, 84);
+    padding: 20px 0px;
+}
+footer
+{
+    color: #fff;
+}
+footer p
+{
+    text-align: left;
+}
+footer h4
+{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+footer a
+{
+    color:#fff;
+}
+.bottomfooter
+{
+    background-color: rgb(14, 55, 49);
+    padding: 10px 0px;
+}
+.bottomfooter a
+{
+    text-decoration: none;
+    color: rgb(208, 253, 5);
+}
